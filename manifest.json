@@ -1,0 +1,10 @@
+{
+  "name": "BrightSteps Kids Ministry",
+  "short_name": "BrightSteps",
+  "description": "A simple place to plan Bible lessons and activities and keep attendance.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#719b8e",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
