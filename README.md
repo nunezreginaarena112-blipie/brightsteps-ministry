@@ -24,3 +24,7 @@ For a quick preview, open `index.html` in a modern browser. For install and offl
 Names, attendance, remarks, lessons, custom stories, and work-sample photos stay in the current browser on the current device. They do not sync between devices. Export backups regularly. The guardian view is a local read-only preview only; it is not protected by accounts and should not be shared online with real child records. A deployed guardian portal needs private guardian sign-in and a secure data service.
 
 The Creation scenes use four human-made illustrations by Sue Bentley, credited and included under CC BY-SA 3.0, plus an original vector illustration for the garden scene. The other built-in stories use original hand-coded vector scenes, not AI-generated images. Credits are in IMAGE-CREDITS.txt. Teacher-added pictures stay on the current device. Read the cited passage from your preferred Bible translation when teaching.
+
+## Google accounts and private workspaces
+
+Firebase Google sign-in is not connected in this preview. See [FIREBASE-SETUP.md](FIREBASE-SETUP.md) for how to create the Firebase project. Do not store real children's records in the cloud until the app has owner-scoped data access and guardian-link security rules in place.
